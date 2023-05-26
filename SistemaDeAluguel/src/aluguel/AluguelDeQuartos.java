@@ -8,7 +8,7 @@ public class AluguelDeQuartos {
 	public static void main(String[] args) {
  String[] quartos = new String[10];
 		 
-		 Arrays.fill(quartos, "Desocupado"); /*Nesta linha faço preenchimento pra q todo indice do array esteja armazado
+		 Arrays.fill(quartos, "Desocupado"); /*Nesta linha faço preenchimento pra q todo indice do array esteja armazenando
 		 a palvara desocupado.*/
 		 
 	        int n;
